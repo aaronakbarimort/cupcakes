@@ -32,6 +32,13 @@ p {
   margin-left: 350px;
 }
 
+li a {
+  color: black;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+}
 .flashy {
   color: red;
   font-style: italic;
